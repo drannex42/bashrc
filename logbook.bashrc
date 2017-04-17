@@ -1,4 +1,5 @@
-# Quickly access and update logbook files which are saved in Dropbox using .md files. Logbooks are a mixture of thoughts I have throughout the day AND my todo's. Highly effective.
+# Quickly access and update logbook files which are saved in Dropbox using .md files.
+# Logbooks are a mixture of thoughts I have throughout the day AND my todo's. Highly effective.
 
 logbook() {
         if [ $1 = "today" ];
