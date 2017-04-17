@@ -1,0 +1,2 @@
+# bashrc
+Personal BASH aliases 
